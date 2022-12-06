@@ -7,3 +7,6 @@ cache
 .vscode
 artifacts
 cache
+crytic-export
+corpus
+.yarn
