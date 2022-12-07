@@ -1,4 +1,8 @@
-# testMode: assertion
+# 10,000 ether is placed in the NaiveReceiverEchidna contract.
+balanceContract: 10000000000000000000000
+# Allow for multi-abi use
+# What is this for lol?
+multi-abi: true
+testMode: "assertion"
 corpusDir: corpus
-# seqLen: 25
-testLimit: 10000
+testLimit: 50000
