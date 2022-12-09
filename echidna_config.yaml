@@ -1,2 +1,5 @@
 corpusDir: corpus
-testMode: "assertion"
+testMode: "property"
+sender: ['0x30000']
+deployer: '0x30000'
+multi-abi: true
